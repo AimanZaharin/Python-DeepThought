@@ -1,6 +1,6 @@
 # Python-DeepThought
 
-“All right,” said the computer, and settled into silence again. The two men fidgeted. The tension was unbearable.
+“All right,” said the computer, and settled into silence again. The two men fidgeted. The tension was unbearable. <br>
 “You’re really not going to like it,” observed Deep Thought.
 “Tell us!”
 “All right,” said Deep Thought. “The Answer to the Great Question…”
